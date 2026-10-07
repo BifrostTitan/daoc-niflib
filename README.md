@@ -1,6 +1,6 @@
-# Niflib++
+# DAoC Niflib
 
-Niflib++ is the standalone C++ library being built from the existing niflib.net codebase maintained by dol-leodagan for later use by Unreal Engine 5. It has no Unreal Engine dependency; the public API uses standard C++ types, and the library can be built as a static library with CMake.
+DAoC Niflib is the standalone C++ library being built from the existing niflib.net codebase maintained by dol-leodagan for later use by Unreal Engine 5. It has no Unreal Engine dependency; the public API uses standard C++ types, and the library can be built as a static library with CMake.
 
 ## Build
 
